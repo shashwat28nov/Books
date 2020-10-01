@@ -8,3 +8,5 @@ Here is a list of best fiction travel books that will take you around the globe!
   - [Again, But Better](https://www.goodreads.com/book/show/41147279-again-but-better) by Christine Riccio
   - [Wanderlost](https://www.goodreads.com/book/show/26244548-wanderlost) by Jen Malone
   - [Eat, Pray, Love](https://www.goodreads.com/book/show/19501.Eat_Pray_Love) by Elizabeth Gilbert
+  - [The Beach](https://www.goodreads.com/book/show/607639.The_Beach) by Alex Garland
+
