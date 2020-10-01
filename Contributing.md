@@ -7,5 +7,4 @@ To contribute to this repository, you can do one of the following:
 To raise a valid Pull Request, make sure you follow the below format:
 
     [Book Title](goodread's link) by [Author's Name]
-    Book Description as per goodreads
     
