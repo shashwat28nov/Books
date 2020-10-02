@@ -1,5 +1,6 @@
 # Humor
 
-Humour or humor is the tendency of experiences to provoke laughter and provide amusement. These make the reader laugh and smile. 
+Humour or humor is the tendency of experiences to provoke laughter and provide amusement. These make the reader laugh and smile.
 
-  - [Diary of a Wimpy Kid](https://www.goodreads.com/book/show/389627.Diary_of_a_Wimpy_Kid) by Jeff Kinney
+- [Diary of a Wimpy Kid](https://www.goodreads.com/book/show/389627.Diary_of_a_Wimpy_Kid) by Jeff Kinney
+- [My Stupid Boss](https://www.goodreads.com/book/show/6192611-my-stupid-boss) by Chaos@Work
