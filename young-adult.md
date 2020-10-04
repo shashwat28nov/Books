@@ -9,3 +9,5 @@ Young adult fiction was developed to soften the transition between children's no
   - [The Fault in Our Stars](https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars) by John Green
   
   - [A Wizard of Earthsea](https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea) by Ursula K. Le Guin
+  
+  - [Not Even Bones](https://www.goodreads.com/book/show/34324484-not-even-bones) by Rebecca Schaeffer
